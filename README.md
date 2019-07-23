@@ -1,0 +1,2 @@
+# MSIB250I
+Mojave Hackintosh Build | i5 7500 - 16GB DDR4 - MSI B250I GAMING PRO AC
