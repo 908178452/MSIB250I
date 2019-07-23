@@ -1,4 +1,4 @@
-# MSIB250I
+# MSI B250I GAMING PRO AC (Small Mini-ITX)
 Mojave Hackintosh Build 
 
 Based On Mojave 10.14.5</br>
