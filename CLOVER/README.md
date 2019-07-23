@@ -1,3 +1,5 @@
+- Whole EFI Folder </br>
+`https://github.com/salilkoli/MSIB250I/raw/master/CLOVER/EFI.zip`
 - SkyLake Spoof For KabyLake Graphics (WhateverGreen / Lilu)</br>
 changed AAPL, ig-platform-id and device-id to skylake</br>
 from 0x59160000 / 0x591B0000 to 0x1916000 </br>
